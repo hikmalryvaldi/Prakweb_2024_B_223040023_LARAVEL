@@ -15,7 +15,11 @@
   <a href="/contact">Contact</a>
 
   <h1>Halaman Contact</h1>
-  <a href="https://github.com/hikmalryvaldi" target="_blank">Github</a>
+  <ul>
+    <li><a href="https://github.com/hikmalryvaldi" target="_blank">Github</a></li>
+    <li><a href="#" target="_blank">Youtube</a></li>
+    <li><a href="#" target="_blank">Instagram</a></li>
+  </ul>
   
 </body>
 </html>
